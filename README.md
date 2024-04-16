@@ -1,7 +1,11 @@
-# Titulo 1
+# Bot de Telegram - Brother_Caelus
 
-## Titulo 2
+## Creación
 
+Para la creación de este bot y uso por medio de Python requerimos del paquete/extensión de python-telegram-bot
+~~~
+$ pip install python-telegram-bot
+~~~
 
 **negritas**
 
