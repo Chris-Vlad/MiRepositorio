@@ -10,7 +10,7 @@ Crea una expresión regular que valide un **Password "fuerte"** que cumpla los s
 
 Para esta validación usé la siguiente expresión regular
 ~~~
-^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@_ !-*?])[a-zA-Z\d@_!- *?]{8}$
+^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@_!-*?])[a-zA-Z\d@_!-*?]{8}$
 ~~~
 Donde decimos que forzosamente tiene que iniciar con cualquiera de las cuatro condiciones:
 . Inicie, o no con una minúscula
@@ -18,7 +18,7 @@ Donde decimos que forzosamente tiene que iniciar con cualquiera de las cuatro co
 . Inicie, o no con un número
 . Inicie, o no con un caracter especial
 
--
+
 
 Con el símbolo '^' indicamos que inicia con esa expresión.
 Con '?=.*' indicamos que si, forzosamente tiene que estar esa expresión, pero en toda la password, no necesariamente en el inicio de la misma.
@@ -48,7 +48,7 @@ Donde decimos que forzosamente tiene que iniciar con cualquiera de las cuatro co
 . Inicie, o no con un número
 . Inicie, o no con un caracter especial
 
--
+
 
 La explicación es la misma que la anterior, solo que se agrega una cosa. El número y el caracter es opcional, por lo que, en este caso, no es necesario un número y caracter en el nombre de usuario.
 (En el texto
