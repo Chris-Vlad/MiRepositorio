@@ -30,8 +30,7 @@ El resto es sencillo.
 
 Puede entrar para comprobar que funcione dando click [aquí](https://regex101.com/r/jTs10z/).
 
--
--
+
 
 ## Usuario
 Crea una expresión regular que valide un **Nombre de usuario** que cumpla los siguientes requerimientos.
