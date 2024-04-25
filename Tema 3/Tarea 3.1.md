@@ -67,7 +67,8 @@ Diagrama:
 Diagrama:
 
 ![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/e4236199-bf33-4afb-9160-8f2c35cd85ca)
-**
+
+****
 
 ## Conclusión
 Solo una cosa. Debo de estudiar mucho si no quiero reprobar, jaja.
