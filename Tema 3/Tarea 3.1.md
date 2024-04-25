@@ -5,36 +5,39 @@ Construya el diagrama de trasnsición del **AFD** a partir de la tabla 3.8:
 
 ![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/64fa8c72-e3cb-4992-b91f-5014f2b04d2d)
 
+Diagrama:
+![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/8a63e531-b61c-46cd-84d1-d78bde3eeec5)
+
 ***
 
 ## Ejercicios 3.2
-Para los siguientes ejercicios, contruya el diagrama de transición del **AFD** que
+Para los siguientes ejercicios, construya el diagrama de transición del **AFD** que
 acepta a cada uno de los lenguajes sobre el alfabeto Σ = {a, b}:
 
 a) El lenguaje donde toda cadena tiene exactamente dos **b**s.
 
-Solución:
+Diagrama:
 
 b) El lenguaje de las cadenas no vacías, donde toda **a** esté entre dos **b**s.
 
-Solución:
+Diagrama:
 
 c) El lenguaje donde toda cadena contiene el sufijo **aba**.
 
-Solución:
+Diagrama:
 
 d) El lenguaje donde ninguna cadena contiene las subcadenas **aa** ni **bb**.
 
-Solución:
+Diagrama:
 
 e) El lenguaje donde toda cadena contiene la subcadena **baba**.
 
-Solución:
+Diagrama:
 
 f) El lenguaje donde toda cadena contiene por separado a las cadenas **ab** y **ba**.
 
-Solución:
+Diagrama:
 
 g) El lenguaje donde toda cadena es de longitud impar y contiene una cantidad para de **a**s
 
-Solución:
+Diagrama:
