@@ -6,6 +6,7 @@ Construya el diagrama de trasnsición del **AFD** a partir de la tabla 3.8:
 ![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/64fa8c72-e3cb-4992-b91f-5014f2b04d2d)
 
 Diagrama:
+
 ![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/eedbd0de-8ab2-46e1-bd53-0aff058cd0f2)
 ***
 
@@ -16,8 +17,8 @@ acepta a cada uno de los lenguajes sobre el alfabeto Σ = {a, b}:
 a) El lenguaje donde toda cadena tiene exactamente dos **b**s.
 
 Diagrama:
-![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/10f4caa5-80d1-48a3-bb48-b0dbf48893ea)
-**
+
+[image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/10f4caa5-80d1-48a3-bb48-b0dbf48893ea)
 
 b) El lenguaje de las cadenas no vacías, donde toda **a** esté entre dos **b**s.
 
