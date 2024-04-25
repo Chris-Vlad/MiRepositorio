@@ -5,6 +5,7 @@ Construya el diagrama de trasnsición del **AFD** a partir de la tabla 3.8:
 
 ![image](https://github.com/Chris-Vlad/MiRepositorio/assets/160756073/64fa8c72-e3cb-4992-b91f-5014f2b04d2d)
 
+***
 
 ## Ejercicios 3.2
 Para los siguientes ejercicios, contruya el diagrama de transición del **AFD** que
